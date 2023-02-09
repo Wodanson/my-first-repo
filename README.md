@@ -2,4 +2,5 @@
 webpage test in HTML/CSS
 
 Dit ben ik
-![picture] (phonepicutres-TA.webp)
+
+![picture](phonepicutres-TA.webp)
