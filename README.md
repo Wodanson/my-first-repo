@@ -5,4 +5,4 @@ Dit ben ik
 
 ![picture](phonepicutres-TA.webp)
 
-![](https://www.zuyd.nl/)
+![Zuyd.nl](https://www.zuyd.nl/)
